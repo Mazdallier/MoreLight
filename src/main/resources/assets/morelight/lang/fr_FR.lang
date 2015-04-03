@@ -1,21 +1,61 @@
 item.phosphoredust.name=Poudre de phosphore
+item.nyancoreitem.name=Coeur de Nyan
+item.phosphorechunk.name=Parcelle de phosphore
+item.advancedphosphorechunk.name=Parcelle de phosphore avancée
+item.phosphoreironhelmet.name=Casque en fer phosphoré
+item.phosphorediamondhelmet.name=Casque en diamant lumineux
+item.lightingdust.name=Poudre lumineuse
+item.advancedlightingdust.name=Poudre lumineuse avancé
+item.lightingdiamond.name=Diamant lumineux
+item.lightingdiamondpickaxe.name=Pioche en diamant lumineux
+item.lightingdiamondsword.name=Epée en diamant lumineux
+item.lightingdiamondaxe.name=Hache en diamant lumineux
+item.lightingdiamondshovel.name=Pelle en diamant lumineux
+item.lightingdiamondhoe.name=Houe en diamant lumineux
+item.lightingdiamondhelmet.name=Casque en diamant lumineux
+item.lightingdiamondchestplate.name=Plastron en diamant lumineux
+item.lightingdiamondleggings.name=Jambières en diamant lumineux
+item.lightingdiamondboots.name=Bottes en diamant lumineux
+item.phosphorelightingdiamondhelmet.name=Casque en diamant lumineux phosphoré
+item.netherstick.name=Bâton du Nether
 
 tile.phosphoreore.name=Minerai de phosphore
 tile.phosphoreblock.name=Block de phosphore
 tile.lightbluelampblock.name=Lampe bleu clair
 tile.greenlampblock.name=Lampe verte
-tile.randomlamp.name=Random Lampe
+tile.randomlamp.name=Lampe aléatoire
 tile.nyanlamp.name=Nyan lampe
+tile.lightingdiamondblock.name=Bloc de diamant lumineux
 
-achievement.GetPhosphoreDust=Obtenir de la poudre de Phosphore!
-achievement.GetPhosphoreDust.desc=Obtenir de la poudre de phosphore avec un minerai de phosphore!
+enchantment.lightningrain=Pluie lumineuse
+
+achievement.GetPhosphoreDust=Obtenir de la poudre de Phosphore !
+achievement.GetPhosphoreDust.desc=Obtenez de la poudre de phosphore avec un minerai de phosphore !
 achievement.CraftingPhosphoreBlock=Fabriquer un block de Phosphore
-achievement.CraftingPhosphoreBlock.desc=Fabriquer un block de phosphore avec 4 poudre phosphore.
-achievement.CraftingLightBlueLampBlock=Lumière bleu clair!
-achievement.CraftingLightBlueLampBlock.desc=Fabriquer une lampe bleu clair.
-achievement.CraftingGreenLampBlock=Lumière verte naturèlle!
-achievement.CraftingGreenLampBlock.desc=Fabriquer une lampe verte.
-achievement.CraftingRandomLamp=Fabriquer une random lampe.
-achievement.CraftingNyanLamp.desc=Fabriquer une nyan lampe!
+achievement.CraftingPhosphoreBlock.desc=Fabriquez un block de phosphore avec 4 poudre phosphore.
+achievement.CraftingLightBlueLampBlock=Lumière bleu clair !
+achievement.CraftingLightBlueLampBlock.desc=Fabriquez une lampe bleu clair.
+achievement.CraftingGreenLampBlock=Lumière verte naturelle !
+achievement.CraftingGreenLampBlock.desc=Fabriquez une lampe verte.
+achievement.CraftingRandomLamp=Lampe ALEATOIRE !
+achievement.CraftingRandomLamp=Fabriquez une lampe aléatoire.
+achievement.CraftingNyanLamp=NYANCAT !
+achievement.CraftingNyanLamp.desc=Fabriquez une nyan lampe !
+achievement.SpawnLightningBolt=Invoquer la foudre
+achievement.SpawnLightningBolt.desc=Utilisez la poudre lumineuse pour invoquer la foudre !
+achievement.GetLightingDiamondBlock=Transformer un bloc de diamant en bloc de diamant lumineux
+achievement.GetLightingDiamondBlock.desc=Transformez un bloc de diamant en bloc de diamant lumineux en utilisant de la poudre lumineuse avancée
+achievement.UseEnchantment=Pluie lumineuse !
+achievement.UseEnchantment.desc=Attaquez les entités avec une épée enchanté de pluie lumineuse
+achievement.CraftingLD_Sword=Epée lumineuse !
+achievement.CraftingLD_Sword.desc=Fabriquez une épée en diamant lumineux avec un diamant lumineux
+achievement.CraftingLD_Pickaxe=Minage à la vitesse lumière
+achievement.CraftingLD_Pickaxe.desc=Fabriquez une pioche en diamant lumineux avec un diamant lumineux
 
-key.ActiveNightVision=ActiveNightVision
+key.ActiveNightVision=Casque de vision nocturne actif
+
+info.phosphoreHelmet.key=Activez la vision nocturne avec la touche N (par défaut)
+info.phosphoreHelmet.enable=La vision nocturne est activée
+info.phosphoreHelmet.disable=La vision nocturne est désactivée
+
+log.warn.morelightOreGen=La génération de minerai MoreLight est désactivée !
